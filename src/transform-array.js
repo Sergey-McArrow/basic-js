@@ -13,7 +13,7 @@ const { NotImplementedError } = require("../extensions/index.js");
  * transform([1, 2, 3, '--discard-prev', 4, 5]) => [1, 2, 4, 5]
  *
  */
-ffunction transform(arr) {
+function transform(arr) {
   let tempArr = arr;
   for (let i = 0; i < arr.length; i++) {
     if (arr[i] === "--discard-prev") {
