@@ -1,3 +1,4 @@
+   
 {
   "name": "basic-js",
   "version": "1.0.0",
@@ -11,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AlreadyBored/basic-js.git"
+    "url": "git+https://github.com/Sergey-McArrow/basic-js"
   },
   "keywords": [
     "RSS",
@@ -20,9 +21,9 @@
   "author": "AlreadyBored",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/AlreadyBored/basic-js/issues"
+    "url": "https://github.com/Sergey-McArrow/basic-js/issues"
   },
-  "homepage": "https://github.com/AlreadyBored/basic-js#readme",
+  "homepage": "https://github.com/Sergey-McArrow/basic-js#readme",
   "devDependencies": {
     "chai": "^4.3.4",
     "mocha": "^9.1.0",
